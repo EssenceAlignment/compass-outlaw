@@ -1,0 +1,18 @@
+# Compass Outlaw backend Python dependencies
+#
+# Install with:  pip install -r backend/requirements.txt
+#
+# The engine itself has no hard runtime dependencies beyond the Python
+# standard library until the proprietary script contents are pasted in.
+# Add third-party PDF and font libraries here as required.
+
+# PDF generation / manipulation (examples – uncomment when pasting scripts)
+# reportlab>=4.0
+# pypdf>=4.0
+# pikepdf>=8.0
+
+# Font handling
+# fonttools>=4.0
+
+# PDF/A validation
+# verapdf (external Java tool, not a pip package)
